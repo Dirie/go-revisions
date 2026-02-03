@@ -1,4 +1,5 @@
-#Go Language Repository 🐹
+# Go Language Repository 🐹
+
 Go is a statically typed, compiled programming language that makes it straightforward to build reliable and efficient software. This repository contains idiomatic Go code organized as a single module with a clear, maintainable project layout. It is designed as a clean starting point for building fast, concurrent services using goroutines and channels, while keeping external dependencies to a minimum.
 
 🧩 Features
